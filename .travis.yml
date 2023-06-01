@@ -1,6 +1,0 @@
-compiler: gcc
-
-os:
-  - linux
-  - osx
-  - windows
